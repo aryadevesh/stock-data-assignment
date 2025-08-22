@@ -53,8 +53,9 @@ docker-compose exec postgres psql -U airflow -d stock_data -c "SELECT * FROM sto
 
 
 ## Working Screenshots 
+<img width="1792" height="668" alt="DAG1" src="https://github.com/user-attachments/assets/1ad1901b-2579-4bc0-a408-17d1c87768ef" />
 <img width="1792" height="1120" alt="DAG" src="https://github.com/user-attachments/assets/cd45e645-8830-47fa-88c6-0d5a3477c3e8" />
 <img width="1251" height="112" alt="table_data" src="https://github.com/user-attachments/assets/c6c45b67-a5e1-443e-a085-f68101eb0326" />
-<img width="1792" height="668" alt="DAG1" src="https://github.com/user-attachments/assets/1ad1901b-2579-4bc0-a408-17d1c87768ef" />
+
 
 
