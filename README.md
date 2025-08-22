@@ -48,5 +48,5 @@ docker-compose exec postgres psql -U airflow -d stock_data -c "SELECT * FROM sto
 - Alpha Vantage API key (free from https://www.alphavantage.co/support/#api-key)
 
 ## Credits
-- Assignment by [Your Name]
+- Assignment by Devesh Kumar Arya
 - Based on Airflow, Postgres, and Alpha Vantage API
